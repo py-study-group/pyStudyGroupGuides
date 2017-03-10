@@ -10,6 +10,8 @@ Google is your best friend. Unless you're looking up the details of a specific c
 
 # cd command
 
+# touch command
+
 # mv command
 
 # cp command 
@@ -39,3 +41,14 @@ And some other optios that we will discuss later.
 # df command
 
 # ps command
+
+# apt-get install command
+
+With apt-get install command, you download and install the software you want. Just like that, with a single command.
+
+On your terminal write
+
+```
+$ apt-get install wget
+```
+and you are ready to go
