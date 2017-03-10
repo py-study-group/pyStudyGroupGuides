@@ -1,3 +1,7 @@
+# GOOGLE !!!
+
+Google is your best friend. Unless you're looking up the details of a specific command or file format, Google should be the first resource you consult for any question. **Make it a habit!!!**
+
 # pwd command
 
 # ls command
