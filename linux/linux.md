@@ -36,4 +36,6 @@ As a result you get a page with:
 
 And some other optios that we will discuss later.
 
+# df command
 
+# ps command
