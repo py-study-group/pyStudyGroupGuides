@@ -22,12 +22,12 @@ As a result you get a page with:
 * Synopsis of the command
 * Description of the command
 
-And some other optios that we will discuss later.
+And some other options that we will discuss later.
 
 # pwd command
 
 # ls command: List files/directories
-## Usage:
+### Usage:
 **ls** *options* [*location*]
 
 When run without options or location **ls** will print a basic list of files and directories in the current directory.
