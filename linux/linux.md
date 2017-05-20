@@ -27,12 +27,12 @@ And some other optios that we will discuss later.
 # pwd command
 
 # ls command: List files/directories
-##Usage:
+## Usage:
 **ls** *options* [*location*]
 
 When run without options or location **ls** will print a basic list of files and directories in the current directory.
 
-###Common Options:
+### Common Options:
 ```
 -a, --all               Show hidden and special files
 -h, --human-readable    Display files sizes in human-readable format
