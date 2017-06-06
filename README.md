@@ -10,4 +10,4 @@ Here you will find guides about various topics, that will help you become better
 
 [Here](git/git.md) you will learn how to use the version control system git.
 
-# Scraping and Parsing with Python\(coming soon)
+# Scraping and Parsing with Python(https://github.com/py-study-group/pyScrape)
