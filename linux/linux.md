@@ -2,20 +2,6 @@
 
 Google is your best friend. Unless you're looking up the details of a specific command or file format, Google should be the first resource you consult for any question. **Make it a habit!!!**
 
-# pwd command
-
-# ls command
-
-# mkdir command
-
-# cd command
-
-# touch command
-
-# mv command
-
-# cp command 
-
 # man command
 
 The manual pages, usually called "man pages" because they are read with the man command. Man pages are typically installed with the system.
@@ -36,7 +22,33 @@ As a result you get a page with:
 * Synopsis of the command
 * Description of the command
 
-And some other optios that we will discuss later.
+And some other options that we will discuss later.
+
+# pwd command
+
+# ls command: List files/directories
+### Usage:
+**ls** *options* [*location*]
+
+When run without options or location **ls** will print a basic list of files and directories in the current directory.
+
+### Common Options:
+```
+-a, --all               Show hidden and special files
+-h, --human-readable    Display files sizes in human-readable format
+-l, --long              Show permissions and size of each result
+-r, --recursive         List directories recursively
+```
+
+# mkdir command
+
+# cd command
+
+# touch command
+
+# mv command
+
+# cp command 
 
 # df command
 
